@@ -1,0 +1,1 @@
+insert into employees values(10011, 'Ramesh', 'Fadatare', 'ramesh@gmail.com');
