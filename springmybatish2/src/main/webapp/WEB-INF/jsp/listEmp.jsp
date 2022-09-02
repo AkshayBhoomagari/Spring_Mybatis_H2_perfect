@@ -12,6 +12,10 @@
 <body>
 	<h1> List of Employees</h1>
 	<a href="addEmployeeForm">ADD Employee</a>
+	<br>
+	<a href="deleteEmployeeForm">DELETE Employee</a>
+	<br>
+	<a href="updateEmailForm">UPDATE Employee</a>
 	<div>
 		<table border='1'>
 			<tr>

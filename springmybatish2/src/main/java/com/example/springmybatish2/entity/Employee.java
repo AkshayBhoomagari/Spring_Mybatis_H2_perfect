@@ -1,7 +1,7 @@
 package com.example.springmybatish2.entity;
 
 public class Employee{
-
+	
 	private long id;
     private String firstName;
     private String lastName;
@@ -20,6 +20,15 @@ public class Employee{
 		this.emailId = emailId;
 	}
 	
+	
+	
+	public Employee(String firstName, String lastName, String emailId) {
+		super();
+		this.firstName = firstName;
+		this.lastName = lastName;
+		this.emailId = emailId;
+	}
+
 	public long getId() {
 		return id;
 	}
